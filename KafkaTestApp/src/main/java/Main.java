@@ -17,8 +17,10 @@ public class Main {
 
         ProducerService producer = new ProducerService(server,schemaUrl);
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        RndService service= new RndService();
         while (true) {
-            producer.put(topic, RndService.generateString(100), RndService.generateFloat());
+            service.run(producer,topic);
+            service.wait(10);
             if (reader.readLine()!= null){
                 break;
             }

@@ -1,6 +1,7 @@
 import java.util.Random;
+import java.util.concurrent.ExecutionException;
 
-public class RndService {
+public class RndService implements Runnable{
 
     public static Random rnd = new Random();
 
@@ -17,5 +18,14 @@ public class RndService {
     public static String generateFloat() {
         String s = String.valueOf(rnd.nextFloat());
         return  s;
+    }
+
+    public void run(ProducerService producer, String topic) throws ExecutionException, InterruptedException{
+        producer.put(topic, RndService.generateString(100), RndService.generateFloat());
+    }
+
+    @Override
+    public void run() {
+
     }
 }
