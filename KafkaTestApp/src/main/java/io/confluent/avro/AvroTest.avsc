@@ -1,0 +1,10 @@
+{
+  "namespace": "io.confluent.avro",
+  "type": "record",
+  "name": "AvroTest",
+  "fields": [
+    {"name": "key", "type": "string"},
+    {"name": "value", "type": "float"},
+    {"name": "timestamp", "type": "string"}
+  ]
+}

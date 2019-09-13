@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="725ca89c-7e77-4451-8a56-87ffd740a006" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="846">
+              <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TumblingWindow.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/TumblingWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1746">
+              <caret line="97" column="25" lean-forward="false" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RatingTimestampExtractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/RatingTimestampExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AvroTest.avsc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/avro/AvroTest.avsc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cfg.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/cfg.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/RatingTimestampExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/confluent/kafka/streams/serdes/avro/SpecificAvroSerde.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/confluent/kafka/schemaregistry/client/SchemaRegistryClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/confluent/kafka/serializers/AbstractKafkaAvroSerDeConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TumblingWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/confluent/developer/RatingTimestampExtractor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/config/cfg.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/io/confluent/developer/TumblingWindow.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="confluent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="confluent" type="462c0819:PsiDirectoryNode" />
+              <item name="developer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="confluent" type="462c0819:PsiDirectoryNode" />
+              <item name="developer" type="462c0819:PsiDirectoryNode" />
+              <item name="avro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsKafkaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsKafkaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="io.confluent.developer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="725ca89c-7e77-4451-8a56-87ffd740a006" name="Default" comment="" />
+      <created>1568231737179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568231737179</updated>
+      <workItem from="1568231741980" duration="8938000" />
+      <workItem from="1568343224704" duration="1274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10212000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/RatingTimestampExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/avro/AvroTest.avsc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/TumblingWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/kafka/schemaregistry/client/SchemaRegistryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/2.0.1/kafka-streams-2.0.1.jar!/org/apache/kafka/streams/KafkaStreams.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="63" column="13" lean-forward="false" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/2.0.1/kafka-streams-2.0.1.jar!/org/apache/kafka/streams/kstream/TimeWindows.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8178">
+          <caret line="132" column="19" lean-forward="false" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/2.0.1/kafka-streams-2.0.1-sources.jar!/org/apache/kafka/streams/kstream/TimeWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/avro/avro/1.7.7/avro-1.7.7.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="154" column="18" lean-forward="false" selection-start-line="154" selection-start-column="18" selection-end-line="154" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/avro/avro-parent/1.7.7/avro-parent-1.7.7.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="473" column="18" lean-forward="false" selection-start-line="473" selection-start-column="18" selection-end-line="473" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.Chevvi.LANIT:StreamsKafkaTest:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.Chevvi.LANIT:StreamsKafkaTest:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="183.95833333333334">com.Chevvi.LANIT:StreamsKafkaTest:1.0-SNAPSHOT</node>
+            <node x="995.0" y="265.4375">org.apache.kafka:kafka-clients:jar:2.0.1</node>
+            <node x="1223.5" y="334.4375">org.apache.kafka:kafka-clients:jar:2.0.1/org.lz4:lz4-java:jar:1.4.1</node>
+            <node x="1210.0" y="265.4375">org.apache.kafka:kafka-clients:jar:2.0.1/org.xerial.snappy:snappy-java:jar:1.1.7.1</node>
+            <node x="1222.5" y="88.77261904761906">org.apache.kafka:kafka-clients:jar:2.0.1/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="269.0" y="72.0">org.apache.kafka:kafka-streams:jar:2.0.1</node>
+            <node x="536.0" y="91.75">org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1</node>
+            <node x="768.5" y="218.07357142857146">org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/org.apache.kafka:connect-api:jar:2.0.1</node>
+            <node x="988.5" y="195.25">org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/org.apache.kafka:connect-api:jar:2.0.1/javax.ws.rs:javax.ws.rs-api:jar:2.1</node>
+            <node x="752.0" y="91.75">org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7</node>
+            <node x="971.0" y="57.25">org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="994.5" y="126.25">org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7</node>
+            <node x="545.0" y="0.0">org.apache.kafka:kafka-streams:jar:2.0.1/org.rocksdb:rocksdbjni:jar:5.7.3</node>
+            <node x="299.5" y="417.9791666666667">org.apache.avro:avro:jar:1.7.7</node>
+            <node x="754.0" y="341.9694047619048">org.apache.avro:avro:jar:1.7.7/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+            <node x="516.0" y="394.69797619047625">org.apache.avro:avro:jar:1.7.7/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="544.5" y="532.6979761904763">org.apache.avro:avro:jar:1.7.7/com.thoughtworks.paranamer:paranamer:jar:2.3</node>
+            <node x="539.5" y="601.6979761904763">org.apache.avro:avro:jar:1.7.7/org.xerial.snappy:snappy-java:jar:1.0.5</node>
+            <node x="514.0" y="463.69797619047625">org.apache.avro:avro:jar:1.7.7/org.apache.commons:commons-compress:jar:1.4.1</node>
+            <node x="798.5" y="463.69797619047625">org.apache.avro:avro:jar:1.7.7/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0</node>
+            <node x="552.0" y="325.69797619047625">org.apache.avro:avro:jar:1.7.7/org.slf4j:slf4j-api:jar:1.6.4</node>
+            <node x="250.0" y="183.95833333333334">io.confluent:kafka-avro-serializer:jar:unknown</node>
+            <node x="224.0" y="3.0">io.confluent:kafka-schema-registry-client:jar:unknown</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.Chevvi.LANIT:StreamsKafkaTest:1.0-SNAPSHOT" target="org.apache.kafka:kafka-clients:jar:2.0.1">
+              <point x="72.0" y="5.800000000000011" />
+              <point x="224.0" y="297.44797619047625" />
+              <point x="891.0" y="297.44797619047625" />
+              <point x="971.0" y="289.6041666666667" />
+              <point x="-55.5" y="9.666666666666686" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-clients:jar:2.0.1" target="org.apache.kafka:kafka-clients:jar:2.0.1/org.xerial.snappy:snappy-java:jar:1.1.7.1">
+              <point x="55.5" y="-0.0" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-clients:jar:2.0.1" target="org.apache.kafka:kafka-clients:jar:2.0.1/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="55.5" y="-9.666666666666686" />
+              <point x="1130.0" y="270.2708333333333" />
+              <point x="1210.0" y="114.14761904761906" />
+              <point x="-41.0" y="10.875" />
+            </edge>
+            <edge source="org.apache.avro:avro:jar:1.7.7" target="org.apache.avro:avro:jar:1.7.7/org.codehaus.jackson:jackson-core-asl:jar:1.9.13">
+              <point x="29.5" y="-12.083333333333314" />
+              <point x="434.0" y="420.39583333333337" />
+              <point x="514.0" y="315.19797619047625" />
+              <point x="672.0" y="315.19797619047625" />
+              <point x="-67.5" y="-7.25" />
+            </edge>
+            <edge source="com.Chevvi.LANIT:StreamsKafkaTest:1.0-SNAPSHOT" target="org.apache.kafka:kafka-streams:jar:2.0.1">
+              <point x="72.0" y="-5.800000000000011" />
+              <point x="224.0" y="86.5" />
+              <point x="-60.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1" target="org.apache.kafka:kafka-clients:jar:2.0.1/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="57.0" y="-9.666666666666686" />
+              <point x="672.0" y="96.58333333333331" />
+              <point x="752.0" y="46.75" />
+              <point x="1130.0" y="46.75" />
+              <point x="1210.0" y="99.64761904761906" />
+              <point x="-41.0" y="-3.625" />
+            </edge>
+            <edge source="com.Chevvi.LANIT:StreamsKafkaTest:1.0-SNAPSHOT" target="io.confluent:kafka-avro-serializer:jar:unknown">
+              <point x="72.0" y="-0.0" />
+              <point x="-79.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7" target="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
+              <point x="69.5" y="7.25" />
+              <point x="971.0" y="140.75" />
+              <point x="-56.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/org.apache.kafka:connect-api:jar:2.0.1" target="org.apache.kafka:kafka-clients:jar:2.0.1">
+              <point x="53.0" y="9.666666666666657" />
+              <point x="891.0" y="242.2402380952381" />
+              <point x="971.0" y="270.2708333333333" />
+              <point x="-55.5" y="-9.666666666666686" />
+            </edge>
+            <edge source="org.apache.avro:avro:jar:1.7.7" target="org.apache.avro:avro:jar:1.7.7/org.apache.commons:commons-compress:jar:1.4.1">
+              <point x="29.5" y="2.4166666666666856" />
+              <point x="434.0" y="434.89583333333337" />
+              <point x="-79.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1" target="org.apache.kafka:kafka-streams:jar:2.0.1/org.rocksdb:rocksdbjni:jar:5.7.3">
+              <point x="60.0" y="-10.875" />
+              <point x="434.0" y="75.625" />
+              <point x="514.0" y="14.5" />
+              <point x="-48.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1" target="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1">
+              <point x="60.0" y="3.625" />
+              <point x="434.0" y="90.125" />
+              <point x="514.0" y="106.25" />
+              <point x="-57.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/org.apache.kafka:connect-api:jar:2.0.1" target="org.apache.kafka:kafka-clients:jar:2.0.1/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="53.0" y="-0.0" />
+              <point x="1130.0" y="234.75" />
+              <point x="1210.0" y="106.89761904761906" />
+              <point x="-41.0" y="3.625" />
+            </edge>
+            <edge source="org.apache.avro:avro:jar:1.7.7" target="org.apache.avro:avro:jar:1.7.7/org.xerial.snappy:snappy-java:jar:1.0.5">
+              <point x="29.5" y="12.083333333333314" />
+              <point x="434.0" y="444.5625" />
+              <point x="514.0" y="616.1979761904763" />
+              <point x="-53.5" y="-0.0" />
+            </edge>
+            <edge source="org.apache.avro:avro:jar:1.7.7" target="org.apache.avro:avro:jar:1.7.7/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13">
+              <point x="29.5" y="-2.4166666666666856" />
+              <point x="434.0" y="430.0625" />
+              <point x="-77.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.avro:avro:jar:1.7.7/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13" target="org.apache.avro:avro:jar:1.7.7/org.codehaus.jackson:jackson-core-asl:jar:1.9.13">
+              <point x="77.0" y="-0.0" />
+              <point x="-67.5" y="7.25" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/org.apache.kafka:connect-api:jar:2.0.1" target="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/org.apache.kafka:connect-api:jar:2.0.1/javax.ws.rs:javax.ws.rs-api:jar:2.1">
+              <point x="53.0" y="-9.666666666666657" />
+              <point x="891.0" y="222.9069047619048" />
+              <point x="971.0" y="209.75" />
+              <point x="-62.0" y="-0.0" />
+            </edge>
+            <edge source="com.Chevvi.LANIT:StreamsKafkaTest:1.0-SNAPSHOT" target="org.apache.avro:avro:jar:1.7.7">
+              <point x="72.0" y="11.599999999999994" />
+              <point x="224.0" y="432.4791666666667" />
+              <point x="-29.5" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1" target="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
+              <point x="57.0" y="-0.0" />
+              <point x="-69.5" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1" target="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/org.apache.kafka:connect-api:jar:2.0.1">
+              <point x="57.0" y="9.666666666666657" />
+              <point x="672.0" y="115.91666666666666" />
+              <point x="752.0" y="232.57357142857146" />
+              <point x="-53.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7" target="org.apache.kafka:kafka-streams:jar:2.0.1/org.apache.kafka:connect-json:jar:2.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="69.5" y="-7.25" />
+              <point x="-79.5" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-clients:jar:2.0.1" target="org.apache.kafka:kafka-clients:jar:2.0.1/org.lz4:lz4-java:jar:1.4.1">
+              <point x="55.5" y="9.666666666666686" />
+              <point x="1130.0" y="289.6041666666667" />
+              <point x="1210.0" y="348.9375" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1" target="org.apache.kafka:kafka-clients:jar:2.0.1">
+              <point x="60.0" y="10.875" />
+              <point x="434.0" y="97.375" />
+              <point x="514.0" y="279.9375" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="org.apache.avro:avro:jar:1.7.7/org.apache.commons:commons-compress:jar:1.4.1" target="org.apache.avro:avro:jar:1.7.7/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0">
+              <point x="79.0" y="-0.0" />
+              <point x="-23.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.kafka:kafka-streams:jar:2.0.1" target="org.apache.kafka:kafka-clients:jar:2.0.1/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="60.0" y="-3.625" />
+              <point x="434.0" y="82.875" />
+              <point x="514.0" y="39.5" />
+              <point x="1130.0" y="39.5" />
+              <point x="1210.0" y="92.39761904761906" />
+              <point x="-41.0" y="-10.875" />
+            </edge>
+            <edge source="com.Chevvi.LANIT:StreamsKafkaTest:1.0-SNAPSHOT" target="io.confluent:kafka-schema-registry-client:jar:unknown">
+              <point x="72.0" y="-11.599999999999994" />
+              <point x="-105.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.avro:avro:jar:1.7.7" target="org.apache.avro:avro:jar:1.7.7/org.slf4j:slf4j-api:jar:1.6.4">
+              <point x="29.5" y="-7.25" />
+              <point x="434.0" y="425.2291666666667" />
+              <point x="514.0" y="340.19797619047625" />
+              <point x="-41.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.avro:avro:jar:1.7.7" target="org.apache.avro:avro:jar:1.7.7/com.thoughtworks.paranamer:paranamer:jar:2.3">
+              <point x="29.5" y="7.25" />
+              <point x="434.0" y="439.7291666666667" />
+              <point x="514.0" y="547.1979761904763" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0330252810356975" x="439.0" y="447.0" />
+          <SelectedNodes>
+            <node>org.apache.avro:avro:jar:1.7.7</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/kafka/streams/serdes/avro/SpecificAvroSerde.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/2.0.1/kafka-streams-2.0.1-sources.jar!/org/apache/kafka/streams/kstream/Windowed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/2.0.1/kafka-streams-2.0.1-sources.jar!/org/apache/kafka/streams/KafkaStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="535" column="11" lean-forward="false" selection-start-line="535" selection-start-column="11" selection-end-line="535" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/kafka/serializers/AbstractKafkaAvroSerDeConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#8504#0" expanded="false" />
+            <element signature="e#7008#7009#0" expanded="false" />
+            <element signature="e#7038#7039#0" expanded="false" />
+            <element signature="e#7080#7081#0" expanded="false" />
+            <element signature="e#7140#7141#0" expanded="false" />
+            <element signature="e#7189#7190#0" expanded="false" />
+            <element signature="e#7246#7247#0" expanded="false" />
+            <element signature="e#7287#7288#0" expanded="false" />
+            <element signature="e#7342#7343#0" expanded="false" />
+            <element signature="e#7386#7387#0" expanded="false" />
+            <element signature="e#7457#7458#0" expanded="false" />
+            <element signature="e#7503#7504#0" expanded="false" />
+            <element signature="e#7576#7577#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-streams/2.0.1/kafka-streams-2.0.1-sources.jar!/org/apache/kafka/streams/kstream/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/RatingTimestampExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/avro/AvroTest.avsc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/confluent/developer/TumblingWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1746">
+          <caret line="97" column="25" lean-forward="false" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>StreamsKafkaTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.confluent:kafka-avro-serializer:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/confluent/kafka-avro-serializer/unknown/kafka-avro-serializer-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/confluent/kafka-avro-serializer/unknown/kafka-avro-serializer-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/confluent/kafka-avro-serializer/unknown/kafka-avro-serializer-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
